@@ -11,6 +11,5 @@ $ python2 fb-cracker.py <br>
 # Tutorial
 
 # Follow
-https://youtube.com/kaitolegion
-https://facebook.com/kaitoxspiker
 
+https://www.facebook.com/joshua.seriliv.1
