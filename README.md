@@ -8,9 +8,8 @@ $ git clone https://github.com/MrKaitoX/FB-Cracker <br>
 $ cd FB-Cracker <br>
 $ python2 fb-cracker.py <br>
 
-# Tutorial
 
-# Follow
-https://youtube.com/kaitolegion
-https://facebook.com/kaitoxspiker
 
+Follow on facebook:
+
+https://www.facebook.com/joshua.seriliv.1
