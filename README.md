@@ -1,5 +1,5 @@
 # FB-Cracker
-Facebook Cracker v1.0
+Facebook Cracker
 
 # How to install
 $ pkg install python2 git <br>
